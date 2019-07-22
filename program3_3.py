@@ -1,7 +1,4 @@
-### program3_3.py Catherine Colias, SPC ID #2421069, COP1000
-### Collaborators: none
-
-# This is a quiz program.
+# This is a quiz program written in Python.
 # There are three questions.
 # Question 1. How many Os are in the name Oblobloboly Oblogoblogan?
 # Answer: There are 8.
